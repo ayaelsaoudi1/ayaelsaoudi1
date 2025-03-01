@@ -1,5 +1,2 @@
 ![Profile Views](https://komarev.com/ghpvc/?username=yourusername&color=blue)
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&count_private=true&theme=light)
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=yourusername&theme=light)
-![GitHub Repo Stars](https://img.shields.io/github/stars/yourusername/yourrepository?style=flat&logo=github&logoColor=white)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=light)
+![My Skills](https://skillicons.dev/icons?i=python,powerbi,excel,tableau,mysql)
