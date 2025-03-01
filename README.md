@@ -14,4 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=light)
+[![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=yourusername&theme=light)](https://github.com/ashutosh00710/github-readme-activity-graph)
+![Profile Views](https://komarev.com/ghpvc/?username=yourusername&color=blue)
+![GitHub Commit Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&count_private=true&theme=light)
