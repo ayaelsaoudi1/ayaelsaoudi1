@@ -12,6 +12,7 @@
   </tr>
   <tr>
     <td colspan="2" style="text-align: center;">
+      <h3>📊 My Profile Views:</h3>
       <img src="https://komarev.com/ghpvc/?username=yourusername&color=blue" />
     </td>
   </tr>
