@@ -7,8 +7,9 @@
       Feel free to explore my repositories and reach out if you'd like to collaborate! 🚀
     </td>
     <td style="text-align: right; padding-left: 20px;">
-      <img src="https://github.com/user-attachments/assets/7eb5880b-8059-43a7-a06b-2505211f7c2f" width="250" style="border-radius: 10px;" />
+      <img src="https://github.com/user-attachments/assets/102dbbd2-e2fd-4299-90cf-dd9f08fefdae" width="250" style="border-radius: 10px;" />
     </td>
+
   </tr>
   <tr>
     <td colspan="2" style="text-align: center; background-color: #f0f8ff; padding: 20px; border-radius: 10px;">
