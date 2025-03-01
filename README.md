@@ -1,5 +1,5 @@
 <table style="width: 100%; table-layout: fixed;">
-  <tr style="height: 250px;">
+  <tr>
     <td style="text-align: left; padding-right: 20px; font-family: 'Arial', sans-serif; vertical-align: top;">
       <h2>👋 Hello, I'm Aya!</h2>
       I'm passionate about <b>Data Analytics 🔍📊</b> and always working to grow and learn.  
@@ -11,7 +11,6 @@
     </td>
   </tr>
   <tr>
-
     <td colspan="2" style="text-align: center; background-color: #f0f8ff; padding: 20px; border-radius: 10px;">
       <h3 style="color: #0077b6;">📊 My Profile Views:</h3>
       <p align="center">
