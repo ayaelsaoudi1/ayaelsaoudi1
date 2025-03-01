@@ -1,8 +1,7 @@
-# 👋 Hello, I'm Aya!
-
 <table>
   <tr>
     <td style="text-align: left; padding-right: 20px;">
+      <h>👋 Hello, I'm Aya!<h>
       I'm passionate about <b>Data Analytics</b> and always working to grow and learn.  
       I enjoy using data to uncover insights and help businesses make informed decisions.  
       Feel free to explore my repositories and reach out if you'd like to collaborate! 🚀
@@ -16,5 +15,5 @@
 ## 📊 My Profile Views:
 
 <p align="center">
-  ![Profile Views](https://komarev.com/ghpvc/?username=yourusername&color=blue)
+  <img src="https://komarev.com/ghpvc/?username=yourusername&color=blue" />
 </p>
