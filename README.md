@@ -18,6 +18,8 @@
         <img src="https://komarev.com/ghpvc/?username=yourusername&color=blue" />
       </p>
       <p style="font-size: 14px; color: #333;">Thanks for checking out my profile! ⭐</p>
+      <h4>⭐ If you find any of my repositories interesting, please consider giving them a star! 🌟</h4>
+      <p style="font-size: 14px; color: #555;">It helps me continue learning and sharing with the community! 🙌</p>
     </td>
   </tr>
 </table>
