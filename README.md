@@ -24,4 +24,5 @@ If you find my work helpful or interesting, please consider starring my reposito
 - [GitHub](https://github.com/yourusername)
 
 ---
+![Profile Views Graph](https://github.com/yourusername/yourrepo/raw/main/graph.png)
 
