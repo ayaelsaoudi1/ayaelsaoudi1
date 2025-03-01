@@ -1,5 +1,5 @@
 <table>
-  <tr style="height: 400px;">
+  <tr >
     <td style="text-align: left; padding-right: 20px; font-family: 'Arial', sans-serif; vertical-align: top;">
       <h3>👋 Hello, I'm Aya!</h3>
       I'm passionate about <b>Data Analytics 🔍📊</b> and always working to grow and learn.  
