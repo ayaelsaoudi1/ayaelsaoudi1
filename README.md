@@ -1,4 +1,4 @@
-![fc71635c7f1b09ed30413f59bb749582](https://github.com/user-attachments/assets/946c6497-318e-49c2-af17-c62a5b04edfe)![fc71635c7f1b09ed30413f59bb749582](https://github.com/user-attachments/assets/21439363-8327-407b-8a5d-0717d959f53c)# 👋 Hello, I'm Aya!
+# 👋 Hello, I'm Aya!
 
 I'm passionate about **Data Analytics** and always working to grow and learn.  
 I enjoy using data to uncover insights and help businesses make informed decisions.  
