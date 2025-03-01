@@ -1,7 +1,7 @@
 <table>
   <tr >
     <td style="text-align: left; padding-right: 20px; font-family: 'Arial', sans-serif; vertical-align: top;">
-      <h3>👋 Hello, I'm Aya!</h3>
+      <h2>👋 Hello, I'm Aya!</h2>
       I'm passionate about <b>Data Analytics 🔍📊</b> and always working to grow and learn.  
       I enjoy using data to uncover insights and help businesses make informed decisions.  
       Feel free to explore my repositories and reach out if you'd like to collaborate! 🚀
