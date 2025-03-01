@@ -7,7 +7,7 @@
       Feel free to explore my repositories and reach out if you'd like to collaborate! 🚀
     </td>
     <td style="text-align: right; padding-left: 20px;">
-      <img src="https://github.com/user-attachments/assets/102dbbd2-e2fd-4299-90cf-dd9f08fefdae" width="250" style="border-radius: 10px;" />
+      <img src="https://github.com/user-attachments/assets/c14c1ad8-14d0-46b7-a126-e0a80d91edd9" width="250" style="border-radius: 10px;" />
     </td>
 
   </tr>
