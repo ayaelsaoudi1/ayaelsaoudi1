@@ -16,7 +16,6 @@
       <p align="center">
         <img src="https://komarev.com/ghpvc/?username=yourusername&color=blue" />
       </p>
-      <p style="font-size: 14px; color: #333;">Thanks for checking out my profile! ⭐</p>
     </td>
   </tr>
 </table>
